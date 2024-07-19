@@ -78,5 +78,10 @@
 </div>
 
 ### 🐍Commit Graph
-<img src="https://raw.githubusercontent.com/vinayak-vohra/vinayak-vohra/output/snake.svg" alt="Snake animation" />
 
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinayak-vohra/vinayak-vohra/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinayak-vohra/vinayak-vohra/output/snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/vinayak-vohra/vinayak-vohra/output/snake.svg" />
+</picture>
+<img src="https://raw.githubusercontent.com/vinayak-vohra/vinayak-vohra/output/snake.svg" alt="Snake animation" />
