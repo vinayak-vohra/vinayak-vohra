@@ -14,7 +14,7 @@
 &ensp;
 [![Leetcode](https://img.shields.io/badge/Leetcode-black?logo=leetcode)](https://leetcode.com/u/vinayak-vohra)
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-%2303c03c?logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/vinayak_vohra)
-[![CodingNinjas](https://img.shields.io/badge/Ninjas-%23DD6620?logo=codingninjas&logoColor=black)](https://www.hackerrank.com/profile/vinayak_vohra)
+[![CodingNinjas](https://img.shields.io/badge/Ninjas-%23DD6620?logo=codingninjas&logoColor=black)](https://www.naukri.com/code360/profile/vinayak_vohra)
 
 ### 💻Tech Stack
 
