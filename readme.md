@@ -1,12 +1,12 @@
 <h1 align='center'>Hi there👋, I'm Vinayak Vohra</h1>
 
-### 🙋🏻About Me
+### 🙋🏻 About Me
 
 - I'm an aspiring full-stack developer from India.
 - I'm actively learning DSA to build a strong foundation for problem-solving and coding efficiency.
 - Apart from reading documentations, I also love to read novels.
 
-### 🌐Socials
+### 🌐 Socials
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-%230077B5?logo=linkedin)](https://www.linkedin.com/in/i-vinayak-vohra)
 [![Github](https://img.shields.io/badge/Github-%23181717?logo=github&logoColor=white)](https://github.com/vinayak-vohra)
@@ -16,7 +16,7 @@
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-%2303c03c?logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/vinayak_vohra)
 [![CodingNinjas](https://img.shields.io/badge/Ninjas-%23DD6620?logo=codingninjas&logoColor=black)](https://www.naukri.com/code360/profile/vinayak_vohra)
 
-### 💻Tech Stack
+### 💻 Tech Stack
 
 [![C++](https://img.shields.io/badge/c++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -36,7 +36,7 @@
 
 <!-- [![Next.js](https://img.shields.io/badge/next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)  -->
 
-### 😺Github Stats
+### 😺 Github Stats
 
 <div align='center'>
 <img src="https://komarev.com/ghpvc/?username=vinayak-vohra&style=for-the-badge&color=orange" />
@@ -71,14 +71,16 @@
 </picture>
 </div>
 
-### 🏆Github Trophies
+### 🏆 Github Trophies
 
 <div align='center'>
 <img src="https://github-profile-trophy.vercel.app/?username=vinayak-vohra&no-bg=true&margin-w=10" />
 </div>
 
-### 🐍Commit Graph
+### 📌 Holopins
+[![holopin](https://holopin.me/vinayakvohra)](https://holopin.io/@vinayak-vohra)
 
+### 🐍 Commit Graph
 <picture>
   <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/vinayak-vohra/vinayak-vohra/output/snake.svg" />
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinayak-vohra/vinayak-vohra/output/snake-dark.svg" />
