@@ -78,7 +78,7 @@
 </div>
 
 ### 📌 Holopins
-[![holopin](https://holopin.me/vinayakvohra)](https://holopin.io/@vinayak-vohra)
+[![holopin](https://holopin.me/vinayakvohra)](https://holopin.io/@vinayakvohra)
 
 ### 🐍 Commit Graph
 <picture>
