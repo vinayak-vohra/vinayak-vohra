@@ -36,6 +36,20 @@
 
 <!-- [![Next.js](https://img.shields.io/badge/next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)  -->
 
+### 🪶 GSSOC(24) Badges
+
+<div style='display:flex; align-items:center; gap: 10px;'>
+  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" alt="postman"  width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/1.png" width="100px" height="100px" alt="explorer" />
+  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/2.png" width="100px" height="100px" alt="adventurer" />
+  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/3.png" width="100px" height="100px" 
+  alt="trailblazer" />
+  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/4.png" width="100px" height="100px" 
+  alt="summit-seeker" />
+  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/5.png" width="100px" height="100px" 
+  alt="champion" />
+</div>
+
 ### 😺 Github Stats
 
 <div align='center'>
@@ -78,9 +92,11 @@
 </div>
 
 ### 📌 Holopins
+
 [![holopin](https://holopin.me/vinayakvohra)](https://holopin.io/@vinayakvohra)
 
 ### 🐍 Commit Graph
+
 <picture>
   <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/vinayak-vohra/vinayak-vohra/output/snake.svg" />
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinayak-vohra/vinayak-vohra/output/snake-dark.svg" />
