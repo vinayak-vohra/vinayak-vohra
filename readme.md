@@ -33,10 +33,9 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%231a202c?style=for-the-badge&logo=tailwind-css&logoColor=38b2ac)](https://tailwindcss.com/)
 [![Firebase](https://img.shields.io/badge/firebase-%23DD2C00?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
+[![Next.js](https://img.shields.io/badge/next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 
-<!-- [![Next.js](https://img.shields.io/badge/next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)  -->
-
-### 🪶 GSSOC(24) Badges
+<!-- ### 🪶 GSSOC(24) Badges
 
 <div style='display:flex; align-items:center; gap: 10px;'>
   <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" alt="postman"  width="100px" height="100px" />
@@ -49,6 +48,7 @@
   <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/5.png" width="100px" height="100px" 
   alt="champion" />
 </div>
+-->
 
 ### 😺 Github Stats
 
